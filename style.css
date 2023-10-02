@@ -55,10 +55,14 @@ nav {
     display: block;
     color: black;
   }
+  .cta-links{
+    margin-bottom: 250px;
+    text-align: center;
+  }
   .subhead{
     padding: 15px;
     color: white;
-    margin-bottom: 250px;
+
   }
   .subhead2{
     display: flex;
