@@ -39,6 +39,7 @@ nav {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-bottom: 15px;
   }
   .iphone h1 {
     color: #fff;
@@ -58,6 +59,7 @@ nav {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-bottom: 15px;
   }
   .iphone2 h1 {
     color: #fff;
