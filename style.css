@@ -19,7 +19,7 @@ nav {
     display: flex;
   }
   nav ul li {
-    margin: 0 40px;
+    margin: 0 30px;
   }
   nav ul li a {
     font-weight: 300;
@@ -48,7 +48,23 @@ nav {
     font-weight: 600;
     letter-spacing: -.005em;
   }
-
+  .tekst{
+    display: block;
+  }
+  .tekst2{
+    display: block;
+    color: black;
+  }
+  .subhead{
+    padding: 15px;
+    color: white;
+    margin-bottom: 250px;
+  }
+  .subhead2{
+    display: flex;
+    text-align: center;
+    margin-bottom: 250px;
+  }
   .iphone2 {
     width: 100%;
     height: 500px;
@@ -60,7 +76,7 @@ nav {
     margin-bottom: 15px;
   }
   .iphone2 h1 {
-    color: #fff;
+    color: #000000;
     font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
     font-size: 56px;
     line-height: 1;
@@ -83,4 +99,5 @@ nav {
     line-height: 1;
     font-weight: 600;
     letter-spacing: -.005em;
+    margin-bottom: 250px;
   }
